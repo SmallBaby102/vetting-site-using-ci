@@ -6,10 +6,10 @@ Web based app for sports betting using <a href="https://github.com/danieledangel
 <br>
 It is in spanish but it is easy to translate. Just create milestone and we will get in touch with you. If you want new features feel free to develop it or create a request here in github.
 <br>
-Read <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/blob/master/Aplicacion%20para%20apuestas%20deportivas%20con%20cuotas%20de%20mercado.pdf">Theoric project</a> if you want know application details.
+Read <a href="https://github.com/SmallBaby102/vetting-site-using-ci/blob/master/Aplicacion%20para%20apuestas%20deportivas%20con%20cuotas%20de%20mercado.pdf">Theoric project</a> if you want know application details.
 </p>
 <h3>SCREENSHOTS</h3>
-<p>Full screenshots are in <a href="https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market/blob/master/Aplicacion%20para%20apuestas%20deportivas%20con%20cuotas%20de%20mercado.pdf">Theoric project</a> . Go to page number 71</p>
+<p>Full screenshots are in <a href="https://github.com/SmallBaby102/vetting-site-using-ci/blob/master/Aplicacion%20para%20apuestas%20deportivas%20con%20cuotas%20de%20mercado.pdf">Theoric project</a> . Go to page number 71</p>
 <p>
 <table>
 <tr>
@@ -86,7 +86,7 @@ Kindly, check if your country is available for getting sports markets visiting <
         </li>
         <li>
           Upload project files to your server. If you are working in local and you have GIT installed, just use follow git command:<br>
-          <b>git clone https://github.com/rockscripts/Sport-Betting-APP-Betfair-Market.git</b>
+          <b>git clone https://github.com/SmallBaby102/vetting-site-using-ci.git</b>
         </li>
         <li>
            Configure database connection, set database name, user, password and host /application/config/database.php
